@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1695070885431" name="http://www.semanticweb.org/hyk038/ontologies/2018/7/untitled-ontology-17" uri="PACO_V02.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1695070885431" name="https://sbmi.uth.edu/bsdi/SDoHO" uri="SDoHO_1005.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1695070885431" name="https://sbmi.uth.edu/ontology/TEO.owl" uri="TEO_1.0.0_20200119.owl"/>
+    </group>
+</catalog>
